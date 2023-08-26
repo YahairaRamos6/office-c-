@@ -1,0 +1,20 @@
+C:\Users\52866\Desktop\ArchivosOffice\ArchivosOffice\bin\Debug\ArchivosOffice.exe.config
+C:\Users\52866\Desktop\ArchivosOffice\ArchivosOffice\bin\Debug\ArchivosOffice.exe
+C:\Users\52866\Desktop\ArchivosOffice\ArchivosOffice\bin\Debug\ArchivosOffice.pdb
+C:\Users\52866\Desktop\ArchivosOffice\ArchivosOffice\obj\Debug\ArchivosOffice.csprojAssemblyReference.cache
+C:\Users\52866\Desktop\ArchivosOffice\ArchivosOffice\obj\Debug\ArchivosOffice.Form1.resources
+C:\Users\52866\Desktop\ArchivosOffice\ArchivosOffice\obj\Debug\ArchivosOffice.Properties.Resources.resources
+C:\Users\52866\Desktop\ArchivosOffice\ArchivosOffice\obj\Debug\ArchivosOffice.csproj.GenerateResource.cache
+C:\Users\52866\Desktop\ArchivosOffice\ArchivosOffice\obj\Debug\ArchivosOffice.csproj.CoreCompileInputs.cache
+C:\Users\52866\Desktop\ArchivosOffice\ArchivosOffice\obj\Debug\ArchivosOffice.exe
+C:\Users\52866\Desktop\ArchivosOffice\ArchivosOffice\obj\Debug\ArchivosOffice.pdb
+E:\FIME\9 semestre\TI\ArchivosOfficej\ArchivosOffice\ArchivosOffice\bin\Debug\ArchivosOffice.exe.config
+E:\FIME\9 semestre\TI\ArchivosOfficej\ArchivosOffice\ArchivosOffice\bin\Debug\ArchivosOffice.exe
+E:\FIME\9 semestre\TI\ArchivosOfficej\ArchivosOffice\ArchivosOffice\bin\Debug\ArchivosOffice.pdb
+E:\FIME\9 semestre\TI\ArchivosOfficej\ArchivosOffice\ArchivosOffice\obj\Debug\ArchivosOffice.csproj.AssemblyReference.cache
+E:\FIME\9 semestre\TI\ArchivosOfficej\ArchivosOffice\ArchivosOffice\obj\Debug\ArchivosOffice.Form1.resources
+E:\FIME\9 semestre\TI\ArchivosOfficej\ArchivosOffice\ArchivosOffice\obj\Debug\ArchivosOffice.Properties.Resources.resources
+E:\FIME\9 semestre\TI\ArchivosOfficej\ArchivosOffice\ArchivosOffice\obj\Debug\ArchivosOffice.csproj.GenerateResource.cache
+E:\FIME\9 semestre\TI\ArchivosOfficej\ArchivosOffice\ArchivosOffice\obj\Debug\ArchivosOffice.csproj.CoreCompileInputs.cache
+E:\FIME\9 semestre\TI\ArchivosOfficej\ArchivosOffice\ArchivosOffice\obj\Debug\ArchivosOffice.exe
+E:\FIME\9 semestre\TI\ArchivosOfficej\ArchivosOffice\ArchivosOffice\obj\Debug\ArchivosOffice.pdb
